@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Service\bin\Debug\net8.0\EventManagementSystem.Service.deps.json
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Service\bin\Debug\net8.0\EventManagementSystem.Service.dll
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Service\bin\Debug\net8.0\EventManagementSystem.Service.pdb
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Service\bin\Debug\net8.0\EventManagementSystem.Repository.dll
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Service\bin\Debug\net8.0\EventManagementSystem.Repository.pdb
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Service\obj\Debug\net8.0\EventManagementSystem.Service.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Service\obj\Debug\net8.0\EventManagementSystem.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Service\obj\Debug\net8.0\EventManagementSystem.Service.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Service\obj\Debug\net8.0\EventManagementSystem.Service.AssemblyInfo.cs
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Service\obj\Debug\net8.0\EventManagementSystem.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Service\obj\Debug\net8.0\EventMan.61276956.Up2Date
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Service\obj\Debug\net8.0\EventManagementSystem.Service.dll
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Service\obj\Debug\net8.0\refint\EventManagementSystem.Service.dll
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Service\obj\Debug\net8.0\EventManagementSystem.Service.pdb
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Service\obj\Debug\net8.0\ref\EventManagementSystem.Service.dll
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Service\bin\Debug\net8.0\EventManagementSystem.Domain.dll
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Service\bin\Debug\net8.0\EventManagementSystem.Domain.pdb

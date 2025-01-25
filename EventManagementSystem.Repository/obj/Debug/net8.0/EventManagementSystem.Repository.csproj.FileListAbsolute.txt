@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Repository\bin\Debug\net8.0\EventManagementSystem.Repository.deps.json
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Repository\bin\Debug\net8.0\EventManagementSystem.Repository.dll
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Repository\bin\Debug\net8.0\EventManagementSystem.Repository.pdb
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Repository\obj\Debug\net8.0\EventManagementSystem.Repository.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Repository\obj\Debug\net8.0\EventManagementSystem.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Repository\obj\Debug\net8.0\EventManagementSystem.Repository.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Repository\obj\Debug\net8.0\EventManagementSystem.Repository.AssemblyInfo.cs
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Repository\obj\Debug\net8.0\EventManagementSystem.Repository.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Repository\obj\Debug\net8.0\EventMan.FDA8D207.Up2Date
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Repository\obj\Debug\net8.0\EventManagementSystem.Repository.dll
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Repository\obj\Debug\net8.0\refint\EventManagementSystem.Repository.dll
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Repository\obj\Debug\net8.0\EventManagementSystem.Repository.pdb
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Repository\obj\Debug\net8.0\ref\EventManagementSystem.Repository.dll
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Repository\bin\Debug\net8.0\EventManagementSystem.Repository.runtimeconfig.json
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Repository\bin\Debug\net8.0\EventManagementSystem.Domain.dll
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Repository\bin\Debug\net8.0\EventManagementSystem.Domain.pdb
+C:\Users\User\source\repos\EventManagementSystem\EventManagementSystem.Repository\obj\Debug\net8.0\EventManagementSystem.Repository.genruntimeconfig.cache

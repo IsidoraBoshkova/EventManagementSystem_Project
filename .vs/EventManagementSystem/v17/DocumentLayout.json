@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9ED721-16D9-4B38-B954-359F7E847ADA}|EventManagementSystem.Web\\EventManagementSystem.Web.csproj|c:\\users\\user\\source\\repos\\eventmanagementsystem\\eventmanagementsystem.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E9ED721-16D9-4B38-B954-359F7E847ADA}|EventManagementSystem.Web\\EventManagementSystem.Web.csproj|solutionrelative:eventmanagementsystem.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11600AC-D0B1-4CF7-9EAE-F269F134A719}|EventManagementSystem.Repository\\EventManagementSystem.Repository.csproj|c:\\users\\user\\source\\repos\\eventmanagementsystem\\eventmanagementsystem.repository\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11600AC-D0B1-4CF7-9EAE-F269F134A719}|EventManagementSystem.Repository\\EventManagementSystem.Repository.csproj|solutionrelative:eventmanagementsystem.repository\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9ED721-16D9-4B38-B954-359F7E847ADA}|EventManagementSystem.Web\\EventManagementSystem.Web.csproj|c:\\users\\user\\source\\repos\\eventmanagementsystem\\eventmanagementsystem.web\\views\\tickets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E9ED721-16D9-4B38-B954-359F7E847ADA}|EventManagementSystem.Web\\EventManagementSystem.Web.csproj|solutionrelative:eventmanagementsystem.web\\views\\tickets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9ED721-16D9-4B38-B954-359F7E847ADA}|EventManagementSystem.Web\\EventManagementSystem.Web.csproj|c:\\users\\user\\source\\repos\\eventmanagementsystem\\eventmanagementsystem.web\\views\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E9ED721-16D9-4B38-B954-359F7E847ADA}|EventManagementSystem.Web\\EventManagementSystem.Web.csproj|solutionrelative:eventmanagementsystem.web\\views\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228FF590-6F3D-44BD-8101-48C4B51CD939}|EventManagamentSystem.Domain\\EventManagementSystem.Domain.csproj|c:\\users\\user\\source\\repos\\eventmanagementsystem\\eventmanagamentsystem.domain\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{228FF590-6F3D-44BD-8101-48C4B51CD939}|EventManagamentSystem.Domain\\EventManagementSystem.Domain.csproj|solutionrelative:eventmanagamentsystem.domain\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9ED721-16D9-4B38-B954-359F7E847ADA}|EventManagementSystem.Web\\EventManagementSystem.Web.csproj|c:\\users\\user\\source\\repos\\eventmanagementsystem\\eventmanagementsystem.web\\views\\schedules\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E9ED721-16D9-4B38-B954-359F7E847ADA}|EventManagementSystem.Web\\EventManagementSystem.Web.csproj|solutionrelative:eventmanagementsystem.web\\views\\schedules\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9ED721-16D9-4B38-B954-359F7E847ADA}|EventManagementSystem.Web\\EventManagementSystem.Web.csproj|c:\\users\\user\\source\\repos\\eventmanagementsystem\\eventmanagementsystem.web\\views\\schedules\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E9ED721-16D9-4B38-B954-359F7E847ADA}|EventManagementSystem.Web\\EventManagementSystem.Web.csproj|solutionrelative:eventmanagementsystem.web\\views\\schedules\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11600AC-D0B1-4CF7-9EAE-F269F134A719}|EventManagementSystem.Repository\\EventManagementSystem.Repository.csproj|c:\\users\\user\\source\\repos\\eventmanagementsystem\\eventmanagementsystem.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11600AC-D0B1-4CF7-9EAE-F269F134A719}|EventManagementSystem.Repository\\EventManagementSystem.Repository.csproj|solutionrelative:eventmanagementsystem.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228FF590-6F3D-44BD-8101-48C4B51CD939}|EventManagamentSystem.Domain\\EventManagementSystem.Domain.csproj|c:\\users\\user\\source\\repos\\eventmanagementsystem\\eventmanagamentsystem.domain\\entities\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{228FF590-6F3D-44BD-8101-48C4B51CD939}|EventManagamentSystem.Domain\\EventManagementSystem.Domain.csproj|solutionrelative:eventmanagamentsystem.domain\\entities\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228FF590-6F3D-44BD-8101-48C4B51CD939}|EventManagamentSystem.Domain\\EventManagementSystem.Domain.csproj|c:\\users\\user\\source\\repos\\eventmanagementsystem\\eventmanagamentsystem.domain\\identities\\attendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{228FF590-6F3D-44BD-8101-48C4B51CD939}|EventManagamentSystem.Domain\\EventManagementSystem.Domain.csproj|solutionrelative:eventmanagamentsystem.domain\\identities\\attendee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9ED721-16D9-4B38-B954-359F7E847ADA}|EventManagementSystem.Web\\EventManagementSystem.Web.csproj|c:\\users\\user\\source\\repos\\eventmanagementsystem\\eventmanagementsystem.web\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9ED721-16D9-4B38-B954-359F7E847ADA}|EventManagementSystem.Web\\EventManagementSystem.Web.csproj|solutionrelative:eventmanagementsystem.web\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9ED721-16D9-4B38-B954-359F7E847ADA}|EventManagementSystem.Web\\EventManagementSystem.Web.csproj|c:\\users\\user\\source\\repos\\eventmanagementsystem\\eventmanagementsystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9ED721-16D9-4B38-B954-359F7E847ADA}|EventManagementSystem.Web\\EventManagementSystem.Web.csproj|solutionrelative:eventmanagementsystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB939C5-3D2B-494C-AF39-8B818865C61F}|EventManagementSystem.Service\\EventManagementSystem.Service.csproj|c:\\users\\user\\source\\repos\\eventmanagementsystem\\eventmanagementsystem.service\\implementation\\attendeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB939C5-3D2B-494C-AF39-8B818865C61F}|EventManagementSystem.Service\\EventManagementSystem.Service.csproj|solutionrelative:eventmanagementsystem.service\\implementation\\attendeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB939C5-3D2B-494C-AF39-8B818865C61F}|EventManagementSystem.Service\\EventManagementSystem.Service.csproj|c:\\users\\user\\source\\repos\\eventmanagementsystem\\eventmanagementsystem.service\\interfaces\\iattendeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB939C5-3D2B-494C-AF39-8B818865C61F}|EventManagementSystem.Service\\EventManagementSystem.Service.csproj|solutionrelative:eventmanagementsystem.service\\interfaces\\iattendeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11600AC-D0B1-4CF7-9EAE-F269F134A719}|EventManagementSystem.Repository\\EventManagementSystem.Repository.csproj|c:\\users\\user\\source\\repos\\eventmanagementsystem\\eventmanagementsystem.repository\\implementation\\attendeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11600AC-D0B1-4CF7-9EAE-F269F134A719}|EventManagementSystem.Repository\\EventManagementSystem.Repository.csproj|solutionrelative:eventmanagementsystem.repository\\implementation\\attendeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11600AC-D0B1-4CF7-9EAE-F269F134A719}|EventManagementSystem.Repository\\EventManagementSystem.Repository.csproj|c:\\users\\user\\source\\repos\\eventmanagementsystem\\eventmanagementsystem.repository\\interfaces\\iattendeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11600AC-D0B1-4CF7-9EAE-F269F134A719}|EventManagementSystem.Repository\\EventManagementSystem.Repository.csproj|solutionrelative:eventmanagementsystem.repository\\interfaces\\iattendeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{f2bd8fb8-fc94-3dae-a733-fd993c73cc87}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagementSystem.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "EventManagementSystem.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagementSystem.Web\\appsettings.json",
+              "RelativeToolTip": "EventManagementSystem.Web\\appsettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T20:02:14.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagementSystem.Repository\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "EventManagementSystem.Repository\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagementSystem.Repository\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "EventManagementSystem.Repository\\ApplicationDbContextFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:00:36.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagementSystem.Web\\Views\\Tickets\\Details.cshtml",
+              "RelativeDocumentMoniker": "EventManagementSystem.Web\\Views\\Tickets\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagementSystem.Web\\Views\\Tickets\\Details.cshtml",
+              "RelativeToolTip": "EventManagementSystem.Web\\Views\\Tickets\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T17:22:11.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagementSystem.Web\\Views\\Tickets\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventManagementSystem.Web\\Views\\Tickets\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagementSystem.Web\\Views\\Tickets\\Index.cshtml",
+              "RelativeToolTip": "EventManagementSystem.Web\\Views\\Tickets\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T17:21:50.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagamentSystem.Domain\\Entities\\Ticket.cs",
+              "RelativeDocumentMoniker": "EventManagamentSystem.Domain\\Entities\\Ticket.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagamentSystem.Domain\\Entities\\Ticket.cs",
+              "RelativeToolTip": "EventManagamentSystem.Domain\\Entities\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T17:20:28.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagementSystem.Web\\Views\\Schedules\\Details.cshtml",
+              "RelativeDocumentMoniker": "EventManagementSystem.Web\\Views\\Schedules\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagementSystem.Web\\Views\\Schedules\\Details.cshtml",
+              "RelativeToolTip": "EventManagementSystem.Web\\Views\\Schedules\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T17:17:52.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagementSystem.Web\\Views\\Schedules\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventManagementSystem.Web\\Views\\Schedules\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagementSystem.Web\\Views\\Schedules\\Index.cshtml",
+              "RelativeToolTip": "EventManagementSystem.Web\\Views\\Schedules\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T17:12:06.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagementSystem.Repository\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "EventManagementSystem.Repository\\Implementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagementSystem.Repository\\Implementation\\Repository.cs",
+              "RelativeToolTip": "EventManagementSystem.Repository\\Implementation\\Repository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwEYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T17:08:59.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagamentSystem.Domain\\Entities\\Schedule.cs",
+              "RelativeDocumentMoniker": "EventManagamentSystem.Domain\\Entities\\Schedule.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagamentSystem.Domain\\Entities\\Schedule.cs",
+              "RelativeToolTip": "EventManagamentSystem.Domain\\Entities\\Schedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T17:08:04.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Attendee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagamentSystem.Domain\\Identities\\Attendee.cs",
+              "RelativeDocumentMoniker": "EventManagamentSystem.Domain\\Identities\\Attendee.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagamentSystem.Domain\\Identities\\Attendee.cs",
+              "RelativeToolTip": "EventManagamentSystem.Domain\\Identities\\Attendee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T17:03:10.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagementSystem.Web\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "EventManagementSystem.Web\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagementSystem.Web\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "EventManagementSystem.Web\\Controllers\\TicketsController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAYwIUAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T17:01:27.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagementSystem.Web\\Program.cs",
+              "RelativeDocumentMoniker": "EventManagementSystem.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagementSystem.Web\\Program.cs",
+              "RelativeToolTip": "EventManagementSystem.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T17:00:14.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AttendeeService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagementSystem.Service\\Implementation\\AttendeeService.cs",
+              "RelativeDocumentMoniker": "EventManagementSystem.Service\\Implementation\\AttendeeService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagementSystem.Service\\Implementation\\AttendeeService.cs",
+              "RelativeToolTip": "EventManagementSystem.Service\\Implementation\\AttendeeService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T16:56:46.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAttendeeService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagementSystem.Service\\Interfaces\\IAttendeeService.cs",
+              "RelativeDocumentMoniker": "EventManagementSystem.Service\\Interfaces\\IAttendeeService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagementSystem.Service\\Interfaces\\IAttendeeService.cs",
+              "RelativeToolTip": "EventManagementSystem.Service\\Interfaces\\IAttendeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T16:55:45.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AttendeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagementSystem.Repository\\Implementation\\AttendeeRepository.cs",
+              "RelativeDocumentMoniker": "EventManagementSystem.Repository\\Implementation\\AttendeeRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagementSystem.Repository\\Implementation\\AttendeeRepository.cs",
+              "RelativeToolTip": "EventManagementSystem.Repository\\Implementation\\AttendeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T16:50:43.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAttendeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagementSystem.Repository\\Interfaces\\IAttendeeRepository.cs",
+              "RelativeDocumentMoniker": "EventManagementSystem.Repository\\Interfaces\\IAttendeeRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EventManagementSystem\\EventManagementSystem.Repository\\Interfaces\\IAttendeeRepository.cs",
+              "RelativeToolTip": "EventManagementSystem.Repository\\Interfaces\\IAttendeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T16:49:04.397Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
